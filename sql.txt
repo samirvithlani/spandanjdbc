@@ -1,0 +1,1 @@
+create table user(uid int primary key auto_increment,uname varchar(30),uage int(10));
